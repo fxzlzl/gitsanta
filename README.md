@@ -6,3 +6,4 @@ santos grande mesmo/ele é bi mundial
 infelizmente, um absurdo
 vou tentar rodar
 git pull agora ein
+vou dar fetch agora ein fica de olho
